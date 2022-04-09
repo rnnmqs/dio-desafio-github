@@ -1,0 +1,9 @@
+Abrir um bash dentro da pasta
+Git init // inicia o projeto na pasta
+git config --global user.email //email da conta projeto
+git config --blobal user.name //Nome do autor
+git add * // adiciona todos os arquivos para ser atualizado
+git commit -m "adiciona um cometario" // atualiza os arquivos do projeto efetivamente.
+git remote add origin https://gitgub.com // para adicionar o repositorio do github externo
+git remote -v // mostra os locais que estao adicionados remotamente.
+git push origin master // manda tudo do repositorio master para o repositorio github.
